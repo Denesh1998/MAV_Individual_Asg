@@ -7,10 +7,10 @@ We implement an algorithm for detecting corners of gates in images taken by dron
 
 ## Requirements
 
-Python3
-opencv
-numpy
-sklearn
+- Python3
+- opencv
+- numpy
+- sklearn
 
 ## Getting Started
 
